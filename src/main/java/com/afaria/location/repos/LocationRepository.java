@@ -1,4 +1,4 @@
-package com.aditya.location.repos;
+package com.afaria.location.repos;
 
 
 
@@ -10,7 +10,7 @@ import org.springframework.data.jpa.repository.Query;
 //import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
-import com.aditya.location.entities.Location;
+import com.afaria.location.entities.Location;
 
 @Repository
 public interface LocationRepository extends JpaRepository<Location, Integer> {

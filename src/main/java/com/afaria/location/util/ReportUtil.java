@@ -1,4 +1,4 @@
-package com.aditya.location.util;
+package com.afaria.location.util;
 
 import java.util.List;
 

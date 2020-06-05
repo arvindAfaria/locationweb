@@ -1,4 +1,4 @@
-package com.aditya.location.controller;
+package com.afaria.location.controller;
 
 import java.util.List;
 
@@ -11,11 +11,11 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.aditya.location.entities.Location;
-import com.aditya.location.repos.LocationRepository;
-import com.aditya.location.service.LocationService;
-import com.aditya.location.util.EmailUtil;
-import com.aditya.location.util.ReportUtil;
+import com.afaria.location.entities.Location;
+import com.afaria.location.repos.LocationRepository;
+import com.afaria.location.service.LocationService;
+import com.afaria.location.util.EmailUtil;
+import com.afaria.location.util.ReportUtil;
 
 @Controller
 public class LocationController {

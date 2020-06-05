@@ -1,4 +1,4 @@
-package com.aditya.location.service;
+package com.afaria.location.service;
 
 import java.io.File;
 import java.util.List;
@@ -6,9 +6,9 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.aditya.location.entities.Location;
-import com.aditya.location.repos.LocationRepository;
-import com.aditya.location.util.ReportUtilImpl;
+import com.afaria.location.entities.Location;
+import com.afaria.location.repos.LocationRepository;
+import com.afaria.location.util.ReportUtilImpl;
 
 @Service
 public class LocationServiceImpl implements LocationService {

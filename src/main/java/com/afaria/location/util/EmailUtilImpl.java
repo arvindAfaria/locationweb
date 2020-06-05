@@ -1,4 +1,4 @@
-package com.aditya.location.util;
+package com.afaria.location.util;
 
 import javax.mail.MessagingException;
 import javax.mail.internet.MimeMessage;

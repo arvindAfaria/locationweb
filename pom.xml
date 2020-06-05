@@ -9,7 +9,7 @@
 		<version>2.1.13.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.aditya.location</groupId>
+	<groupId>com.afaria.location</groupId>
 	<artifactId>locationweb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>locationweb</name>

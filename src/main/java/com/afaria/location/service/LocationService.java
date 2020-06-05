@@ -1,8 +1,8 @@
-package com.aditya.location.service;
+package com.afaria.location.service;
 
 import java.util.List;
 
-import com.aditya.location.entities.Location;
+import com.afaria.location.entities.Location;
 
 public interface LocationService {
 

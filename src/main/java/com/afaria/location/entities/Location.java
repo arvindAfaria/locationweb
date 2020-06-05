@@ -1,4 +1,4 @@
-package com.aditya.location.entities;
+package com.afaria.location.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
